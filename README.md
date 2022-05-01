@@ -1,2 +1,2 @@
 # esp32-clock
-simple esp32 connected clock using hd44780
+simple esp32 connected clock using Holtek driver
